@@ -8,11 +8,16 @@ Planes SQL Server.ipynb: The main Jupyter Notebook file containing the analysis.
 
 Key Features
 SQL Integration: Demonstrates how to connect to and query data from an SQL Server database within a Jupyter Notebook.
+
 Data Import: Imports data from Excel and CSV files into SQL Server for analysis.
+
 Data Manipulation: Includes various SQL queries to manipulate and analyze the plane data.
+
 Data Validation: Ensures data is imported correctly by fetching and displaying results from the database tables.
 
 Data Sources
 planes.xlsx: Dataset containing flight information.
+
 ind_loc.csv: Dataset containing latitude and longitude information.
+
 indian_city_names.csv: Dataset containing city names.
